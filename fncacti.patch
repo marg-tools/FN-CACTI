@@ -4648,7 +4648,7 @@ diff -crB pcacti_xml/Ucache.cc fncacti/Ucache.cc
 + 	{
 + //		Wire::print_wire();
 + 		Wire winit;//init before changing dvs
-+ 		for (unsigned int i=0; i< num_dvs_voltages+1; i++) //For voltages from 0.2V-0.8V in steps of 0.1 . Total 7 voltages
++ 		for (unsigned int i=0; i< num_dvs_voltages+1; i++) //For voltages from 0.3V-0.8V in steps of 0.1 . Total 7 voltages
 + 		{
 + 			fin_res->uca_q.push_back(new uca_org_t());
 + 
