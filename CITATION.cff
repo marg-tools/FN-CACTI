@@ -1,5 +1,10 @@
 # YAML 1.2
 ---
+cff-version: 1.2.0
+date-released: 2021-09-10
+message: "If you use this tool, please cite the paper below."
+preferred-citation:
+type: article
 authors: 
   -
     family-names: Ravipati
@@ -19,8 +24,7 @@ authors:
   -
     family-names: Amrouch
     given-names: Hussam
-cff-version: "1.1.0"
-date-released: 2021-09-10
-message: "If you use this software, please cite it using these metadata."
-title: "FN-CACTI: Advanced CACTI for FinFET and NC-FinFET Technologies"
-...
+  title: "FN-CACTI: Advanced CACTI for FinFET and NC-FinFET Technologies"
+  journal: IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Accepted.
+  month: 10
+  year: 2021
