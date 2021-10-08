@@ -6,25 +6,20 @@ message: "If you use this tool, please cite the paper below."
 preferred-citation:
 type: article
 authors: 
-  -
-    family-names: Ravipati
+  - family-names: Ravipati
     given-names: "Divya Praneetha"
-  -
-    family-names: Kedia
+  - family-names: Kedia
     given-names: Rajesh
-  -
-    family-names: "van Santen"
+  - family-names: "van Santen"
     given-names: "Victor M."
-  -
-    family-names: Henkel
+  - family-names: Henkel
     given-names: Joerg
-  -
-    family-names: Panda
+  - family-names: Panda
     given-names: "Preeti Ranjan"
-  -
-    family-names: Amrouch
+  - family-names: Amrouch
     given-names: Hussam
   title: "FN-CACTI: Advanced CACTI for FinFET and NC-FinFET Technologies"
   journal: IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Accepted.
   month: 10
   year: 2021
+...
