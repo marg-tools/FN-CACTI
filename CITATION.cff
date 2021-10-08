@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this tool, please cite the paper below."
-date-released: 2021-09-10
 preferred-citation:
-type: article
-authors: 
+ type: article
+ authors: 
   - family-names: Ravipati
     given-names: "Divya Praneetha"
   - family-names: Kedia
