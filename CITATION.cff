@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this tool, please cite the paper below."
 preferred-citation:
- type: article
- authors: 
+  type: article
+  authors: 
   - family-names: Ravipati
     given-names: "Divya Praneetha"
   - family-names: Kedia
@@ -16,6 +16,6 @@ preferred-citation:
   - family-names: Amrouch
     given-names: Hussam
   title: "FN-CACTI: Advanced CACTI for FinFET and NC-FinFET Technologies"
-  journal: "IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Accepted."
+  journal: "IEEE Transactions on Very Large Scale Integration Systems (TVLSI)"
   month: 10
   year: 2021
